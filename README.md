@@ -1,1 +1,2 @@
-# login-to-gmail
+npm init
+npm install express ejs express-session passport passport-google-oauth --save
